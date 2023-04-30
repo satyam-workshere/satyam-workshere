@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and all things Data!
 - 🌱 I’m currently learning Analytics tool such as Tableau, Power BI, Programming Languages such as Python, Java, SQL.
 - 💞️ I’m looking to collaborate on Data Analytics Project.
-- 📫 How to reach me : 
+- 📫 How to reach me :  
 
     LinkedIn - www.linkedin.com/in/satyam-satyam
 
